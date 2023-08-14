@@ -1,6 +1,3 @@
 streamlit
 rembg
 pillow
-streamlit-image-comparison
-easyocr
-numpy
